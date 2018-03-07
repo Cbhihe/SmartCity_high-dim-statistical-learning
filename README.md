@@ -3,9 +3,7 @@
 #### Content:
 Some of the work presented here is concerned with mere toy examples meant for others to hone their ML skills. They are mostly those in folders named Lab1, Lab2, etc. Other developments are more personal and involve a greater amount of coding using R and / or python scripting. This repo also contains a project in deep learning, housed in the folder Project, with its own introductoury ***readme.md*** file. . Altogther various areas are covered by the contents in a more or less detailed fashion:
 - regression (linear and beyond)
-- classification
-- generative classifiers
-- discriminative classifiers
+- classification (incl. generative and discriminative classifiers)
 - clustering: k-means and E-M
 - learning with kernels: SVM and kernel functions
 - artificial neural networks (NN): Delta rule, MLP-1, MLP-2, RBF, DL and CNNs
