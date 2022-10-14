@@ -1,4 +1,4 @@
-## ml -- Machine Learning
+## SmartCity -- High-dimensional statistical learning, Multivariate analysis and Dimensionality reduction
 
 #### Content:
 Some of the work presented here is concerned with mere toy examples meant for others to hone their ML skills. They are mostly those in folders named Lab1, Lab2, etc. Other developments are more personal and involve a greater amount of coding using R and / or python scripting. This repo also contains a project in deep learning, housed in the folder *Project*, with its own introductory ***readme.md*** file.  
